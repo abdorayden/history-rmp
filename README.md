@@ -13,5 +13,3 @@ raymp.history_plugin = {}
 raymp.history_plugin.enable = true
 raymp.history_plugin.max_history = 200
 ```
-```
-```
